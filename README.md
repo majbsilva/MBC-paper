@@ -1,5 +1,4 @@
 
-# MBC paper
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -28,11 +27,6 @@ access directly from the data providers:
 After access approval, datasets must be harmonized according to the variable
 definitions described in the manuscript and saved as `mbc_fosp.csv`.
 
-## Repository Structure
-- `data/`: Directory to store the harmonized dataset `mbc_fosp.csv`.
-- `scripts/`: Contains R scripts for data preprocessing, model fitting,validation, and nomogram construction.
-- `results/`: Output directory for model results, figures, and tables.
-- `README.md`: This file providing an overview of the repository.
 
 ## Reproducibility
 The script is fully executable once the harmonized dataset is placed in the
