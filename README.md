@@ -1,4 +1,5 @@
 
+# MBC paper
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -25,13 +26,11 @@ access directly from the data providers:
 - FOSP public interface: https://fosp.saude.sp.gov.br/fosp/direto-ao-dado/
 
 After access approval, datasets must be harmonized according to the variable
-definitions described in the manuscript and saved as `mbc_fosp.csv`.
+definitions described in the manuscript and saved as `mbc.csv`.
 
 
 ## Reproducibility
-The script is fully executable once the harmonized dataset is placed in the
-`data/` directory. All analyses are deterministic and reproducible using the
-fixed random seed specified in the code.
+The script is fully executable once the harmonized dataset is used. All analyses are deterministic and reproducible using the fixed random seed specified in the code.
 
 ## Software Requirements
 - R version ≥ 4.3.0

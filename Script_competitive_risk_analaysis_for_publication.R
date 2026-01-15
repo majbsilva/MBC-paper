@@ -49,10 +49,10 @@ library(readr)
 # directly from the original registries and harmonized as described
 # in the manuscript.
 
-data_path <- "data/mbc_fosp.csv"
+data_path <- "data/mbc.csv"
 
 if (!file.exists(data_path)) {
-  stop("Dataset not found. Place 'mbc_fosp.csv' in the 'data/' directory.")
+  stop("Dataset not found. Place 'mbc.csv' in the 'data/' directory.")
 }
 
 mbc_raw <- read_csv(data_path)
