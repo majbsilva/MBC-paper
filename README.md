@@ -2,6 +2,11 @@
 # Survival Analysis of Male Breast Cancer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Publication
+
+[![DOI](https://zenodo.org/badge/1135126247.svg)](https://doi.org/10.5281/zenodo.18260611)
+
 # Competing Risk Analysis and Nomogram Construction
 
 This repository contains the source code for the study **"Survival Analysis of Male Breast Cancer Accounting for Competing Risk: a Multicohort Study Integrating SEER and Hospital-based Data"**, submitted to *Clinical Breast Cancer*.
